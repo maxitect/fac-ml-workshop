@@ -1,0 +1,6 @@
+
+.ipynb_checkpoints/
+jupyter-env/
+.DS_Store
+*.pyc
+__pycache__/
